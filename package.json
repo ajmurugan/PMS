@@ -1,0 +1,25 @@
+{
+  "name": "pms",
+  "version": "1.0.0",
+  "description": "this is pms temp emg ecg in data",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "jke-d3-ecg": "^0.1.0",
+    "jsonfile": "^4.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "super",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Ctamil\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C3456"
+  ],
+  "author": "tamil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "radiant-scrubland-57037"
+  }
+}
